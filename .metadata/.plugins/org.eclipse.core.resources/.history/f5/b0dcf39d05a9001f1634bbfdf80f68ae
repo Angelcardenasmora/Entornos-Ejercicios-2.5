@@ -1,0 +1,13 @@
+package es.iessoterohernandez.daw.endes.fibonacciMain;
+
+/**
+ * Hello world!
+ *
+ */
+public class fibonacciMain 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

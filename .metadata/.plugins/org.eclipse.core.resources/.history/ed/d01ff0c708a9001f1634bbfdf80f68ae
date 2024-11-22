@@ -1,0 +1,24 @@
+package es.iessoterohernandez.daw.endes.HelloWorldPdf;
+
+public class HelloWorldPdf {
+  public static void main(String[] args) {
+	  Document document = new Document();
+		
+		try{
+			PdfWriter writer = PdfWriter.getInstance(document, new FileOutputStream("tarea.pdf"));
+			document.open();
+			document.add(new Paragraph("Hola Mundo"));
+			document.close();
+			writer.close();
+		} 
+		
+		catch (DocumentException e){
+		e.printStackTrace();
+		} 
+		
+		catch (FileNotFoundException e){
+		e.printStackTrace();
+		}
+	}
+  }
+}

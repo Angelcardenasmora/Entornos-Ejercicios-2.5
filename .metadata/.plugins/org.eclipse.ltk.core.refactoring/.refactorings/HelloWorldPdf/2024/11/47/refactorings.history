@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;es.iessoterohernandez.daw.endes.HelloWorldPdf.App&apos; to &apos;HelloWorldPdf&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorldPdf&apos;&#x0D;&#x0A;- Original element: &apos;es.iessoterohernandez.daw.endes.HelloWorldPdf.App&apos;&#x0D;&#x0A;- Renamed element: &apos;es.iessoterohernandez.daw.endes.HelloWorldPdf.HelloWorldPdf&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;App&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;es.iessoterohernandez.daw.endes.HelloWorldPdf{App.java[App" matchStrategy="1" name="HelloWorldPdf" qualified="false" references="true" similarDeclarations="false" stamp="1732303938962" textual="false" version="1.0"/>
+</session>
